@@ -108,10 +108,10 @@
   resolved "https://registry.yarnpkg.com/@tusbar/cache-control/-/cache-control-0.3.1.tgz#2ee673c6a7166041b5d419f7e15cd9f16e21c8e1"
   integrity sha512-qeQhWoHQqDdW+SS1TgybdOeaSo+8tZx4ZesMY0+HSLeWWa2bGDetB9wxAT/umlXuutC6QdbADd48RJ6hrYr4BQ==
 
-"@types/esprima@^4.0.2":
-  version "4.0.2"
-  resolved "https://registry.yarnpkg.com/@types/esprima/-/esprima-4.0.2.tgz#0303602d0644086d4802635d7abc9ac0eec57207"
-  integrity sha512-DKqdyuy7Go7ir6iKhZ0jUvgt/h9Q5zb9xS+fLeeXD2QSHv8gC6TimgujBBGfw8dHrpx4+u2HlMv7pkYOOfuUqg==
+"@types/esprima@^4.0.3":
+  version "4.0.3"
+  resolved "https://registry.yarnpkg.com/@types/esprima/-/esprima-4.0.3.tgz#e9068297cc3dd75231fa5cdaa6d75c50d5fb632f"
+  integrity sha512-jo14dIWVVtF0iMsKkYek6++4cWJjwpvog+rchLulwgFJGTXqIeTdCOvY0B3yMLTaIwMcKCdJ6mQbSR6wYHy98A==
   dependencies:
     "@types/estree" "*"
 
