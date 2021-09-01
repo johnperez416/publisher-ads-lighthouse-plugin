@@ -25,7 +25,7 @@
     }
   },
   "dependencies": {
-    "@tusbar/cache-control": "^0.3.1",
+    "@tusbar/cache-control": "^0.6.0",
     "esprima": "^4.0.1",
     "intl-messageformat": "^4.1.2",
     "yargs": "^16.1.1"
